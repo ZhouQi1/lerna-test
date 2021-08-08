@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/",
+    "registry": "https://registry.npm.org/",
     "access": "public"
   },
   "repository": {
@@ -26,5 +26,6 @@
   },
   "bugs": {
     "url": "https://github.com/ZhouQi1/lerna-test/issues"
-  }
+  },
+  "gitHead": "8ba7fe7502b43fa3b3702a9e2f4ee41f0556c0ac"
 }
