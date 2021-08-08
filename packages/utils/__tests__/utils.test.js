@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('@zq-lerna-demo/utils', () => {
+describe('@zq-lerna-test/utils', () => {
     it('needs tests');
 });
