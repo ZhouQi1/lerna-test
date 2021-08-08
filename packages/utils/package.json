@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/ZhouQi1/lerna-test/issues"
   },
-  "gitHead": "9736847202cbab9795163ee82af22a1ccbc3bc3f"
+  "gitHead": "8d9c97bdc5a2e3b88580f4087f9e707640049723",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
